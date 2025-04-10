@@ -1,13 +1,18 @@
 {
   "files": {
     "main.css": "/MyPortFolio-React/static/css/main.9e596bcf.css",
-    "main.js": "/MyPortFolio-React/static/js/main.1a790749.js",
+    "main.js": "/MyPortFolio-React/static/js/main.566f4a93.js",
+    "static/media/TodoList.png": "/MyPortFolio-React/static/media/TodoList.3654a5f7e4ec9677112d.png",
+    "static/media/Afshan_Photo.png": "/MyPortFolio-React/static/media/Afshan_Photo.f452e8fb5af3718f4c91.png",
+    "static/media/OtpProject.png": "/MyPortFolio-React/static/media/OtpProject.7af799dbb3fa987f7edc.png",
+    "static/media/Afshan_Ahamed_M.pdf": "/MyPortFolio-React/static/media/Afshan_Ahamed_M.39c938d5a10a041c73c9.pdf",
+    "static/media/EmailValid.png": "/MyPortFolio-React/static/media/EmailValid.dfe63bcc344db1b9ba53.png",
     "index.html": "/MyPortFolio-React/index.html",
     "main.9e596bcf.css.map": "/MyPortFolio-React/static/css/main.9e596bcf.css.map",
-    "main.1a790749.js.map": "/MyPortFolio-React/static/js/main.1a790749.js.map"
+    "main.566f4a93.js.map": "/MyPortFolio-React/static/js/main.566f4a93.js.map"
   },
   "entrypoints": [
     "static/css/main.9e596bcf.css",
-    "static/js/main.1a790749.js"
+    "static/js/main.566f4a93.js"
   ]
 }
